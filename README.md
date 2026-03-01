@@ -1,24 +1,19 @@
 <div align="center">
-
-```
-███████╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗
-██╔════╝██╔══██╗██╔══██╗██║  ██║██╔══██╗████╗  ██║
-█████╗  ███████║██████╔╝███████║███████║██╔██╗ ██║
-██╔══╝  ██╔══██║██╔══██╗██╔══██║██╔══██║██║╚██╗██║
-██║     ██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Farhan%20Uddin&fontSize=40&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Python%20Full-Stack%20Developer%20%7C%20API%20Architect%20%7C%20Backend%20Engineer&descAlignY=55&descSize=16&descColor=a0aec0"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=180&text=✦%20FARHAN%20✦&fontSize=80&fontColor=00ffcc&animation=fadeIn&fontAlignY=55&desc=Mohammed%20Farhan%20Uddin&descAlignY=80&descSize=18&descColor=a0aec0"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:1a1a2e,100:16213e&height=60&text=Python%20Full-Stack%20Developer%20%7C%20API%20Architect%20%7C%20Backend%20Engineer&fontSize=16&fontColor=00ffcc&animation=fadeIn"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&multiline=false&width=600&lines=🔥+Building+Fast+APIs+with+FastAPI;🛠️+Engineering+Scalable+Backend+Systems;📊+Turning+Data+into+Clean+Architecture;🚀+Python+%7C+Django+%7C+MySQL+%7C+Bootstrap;⚡+Sub-200ms+APIs+%7C+40%25+Faster+Queries" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=🔥+Building+Fast+APIs+with+FastAPI;🛠️+Engineering+Scalable+Backend+Systems;📊+Turning+Data+into+Clean+Architecture;🚀+Python+%7C+Django+%7C+MySQL+%7C+Bootstrap;⚡+Sub-200ms+APIs+%7C+40%25+Faster+Queries" alt="Typing SVG" />
 </div>
 
 <br/>
