@@ -108,7 +108,7 @@ class FarhanUddin:
 <summary><b>🛍️ Madam Choice Footwear — Full-Stack E-Commerce App</b></summary>
 <br/>
 
-> **Stack:** `FastAPI` `MySQL` `HTML` `CSS` `Bootstrap`
+> **Stack:** `FastAPI` `MySQL` `HTML` `CSS` `Bootstrap` &nbsp;|&nbsp; 🌐 **[Live Site](https://madam-choice-footwear2.vercel.app/)**
 
 | Metric | Result |
 |--------|--------|
@@ -166,6 +166,42 @@ class FarhanUddin:
 
 </details>
 
+<details>
+<summary><b>📱 QGS Workforce Management App — Full-Stack Mobile + Backend</b></summary>
+<br/>
+
+> **Stack:** `FastAPI` `Python` `MySQL` `REST APIs` `Android APK` &nbsp;|&nbsp; 📲 **[Download APK Demo](https://drive.google.com/uc?export=download&id=1Zi3B_EQHGB7b3w0NeOQU0u1sbDG3y8uz)**
+
+End-to-end workforce management system built for **Qanat Global Solutions** with 4 fully role-based dashboards — Admin, Supervisor, Team Leader & Participant (Worker).
+
+| Metric | Result |
+|--------|--------|
+| 🧑‍💼 Role Dashboards | **4** — Admin, Supervisor, Team Leader, Participant |
+| 👥 Workforce Scale | **5,000+** active workers managed |
+| ✅ Features Shipped | Attendance, QC Checks, Production tracking, Check-in/out |
+| 📊 QC System | Excel upload for QC results, auto-grading & level progression |
+| 💳 Extra Modules | Payments, Fraud Detection, Role-based Login/Logout |
+| 🔐 Auth Coverage | **100%** — secure sign-in/sign-out for all 4 roles |
+
+</details>
+
+<details>
+<summary><b>🌐 QGS Corporate Website — Full-Stack Web</b></summary>
+<br/>
+
+> **Stack:** `HTML` `CSS` `JavaScript` `Vercel` &nbsp;|&nbsp; 🌐 **[Live Site](https://qgs-website.vercel.app/)**
+
+Corporate website for **Qanat Global Solutions** — an AI data infrastructure company powering lead generation, transcription, data extraction, and voice projects globally.
+
+| Metric | Result |
+|--------|--------|
+| 🌍 Global Reach | **150+** countries covered |
+| 🗄️ B2B Contacts | **214M+** verified first-party professionals |
+| 👨‍💻 Workforce Represented | **5,000+** trained human data workers |
+| 📉 Avg CPL Reduction | **40%** below industry benchmark |
+
+</details>
+
 ---
 
 ## 〔 04 〕 — GITHUB STATS
@@ -193,6 +229,7 @@ class FarhanUddin:
 | ☁️ AWS APAC Solutions Architecture | Forage | 2026 |
 | 🤖 Retrieval-Augmented Generation for AI | IBM SkillsBuild | 2025 |
 | 🐍 Python Programming Fundamentals | HackerRank | 2025 |
+| 🏛️ Aspire Leaders Program — Harvard Business School Design | Aspire Institute | 2026 |
 
 </div>
 
