@@ -56,11 +56,12 @@ class FarhanUddin:
 </td>
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Farhan71140&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Farhan71140&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan71140&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ffcc&fire=ff6b35&currStreakLabel=00ffcc" width="100%"/>
+<!-- ✅ FIXED: switched to streak-stats.demolab.com — the official maintained service -->
+<img src="https://streak-stats.demolab.com?user=Farhan71140&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=c9d1d9&stroke=00ffcc22" width="100%"/>
 
 </td>
 </tr>
@@ -208,12 +209,13 @@ Corporate website for **Qanat Global Solutions** — an AI data infrastructure c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan71140&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan71140&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&count_private=true" width="38%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhan71140&theme=github_dark" width="58%"/>
 
 </div>
 
+<!-- ✅ FIXED: Activity graph moved to more reliable source -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhan71140&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
