@@ -56,12 +56,12 @@ class FarhanUddin:
 </td>
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Farhan71140&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Farhan71140&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="100%"/>
 
 <br/>
 
-<!-- ✅ FIXED: switched to streak-stats.demolab.com — the official maintained service -->
-<img src="https://streak-stats.demolab.com?user=Farhan71140&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=c9d1d9&stroke=00ffcc22" width="100%"/>
+<!-- ✅ FIXED: timezone=Asia/Kolkata fixes IST +5:30 offset issue, Vercel host is more reliable -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Farhan71140&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=c9d1d9&stroke=00ffcc22&timezone=Asia%2FKolkata" width="100%"/>
 
 </td>
 </tr>
