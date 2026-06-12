@@ -221,6 +221,19 @@ Corporate website for **Qanat Global Solutions** — an AI data infrastructure c
 </div>
 
 ---
+---
+
+## 〔 ✦ 〕 — CONTRIBUTION SNAKE
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farhan71140/Farhan71140/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farhan71140/Farhan71140/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Farhan71140/Farhan71140/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+---
 
 ## 〔 05 〕 — CERTIFICATIONS
 
